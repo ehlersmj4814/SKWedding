@@ -183,6 +183,9 @@ p{
     top: 5px;
     left: 5px;
 }
+#target{
+    background-image: url(images/target.png);
+}
 #amazon{
     background-image: url(images/amazon.png);
 }
