@@ -189,8 +189,8 @@ p{
 #amazon{
     background-image: url(images/amazon.png);
 }
-#bbb{
-    background-image: url(images/bbb.png);
+#dominos{
+    background-image: url(images/dominos.png);
 }
 #wayfair{
     background-image: url(images/wayfair.png);
@@ -220,7 +220,7 @@ p{
 }
 .infoimg{
     float: left;
-    margin-bottom: 40px;
+    margin-bottom: 50px;
 }
 .infoimg img{
     height: 128px;
